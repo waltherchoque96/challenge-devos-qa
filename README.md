@@ -1,4 +1,4 @@
-# Framework de Automatización Serenity BDD (Web & API) - Devos
+# Framework de Automatización Serenity BDD (Web & API) - Devos Inc
 
 ## 1. Contexto
 Este proyecto es un framework de automatización basado en el patrón **Screenplay** como parte de la prueba técnica para el rol de QA. Está diseñado para cubrir pruebas de doble frente: interfaces de usuario web (Selenium) y servicios REST API (ReqRes), permitiendo ejecutar todo en una sola suite unificada y generar evidencias detalladas de cada validación.
