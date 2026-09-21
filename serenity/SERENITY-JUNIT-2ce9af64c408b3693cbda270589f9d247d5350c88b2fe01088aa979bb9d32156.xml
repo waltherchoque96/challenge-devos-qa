@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="API ReqRes" skipped="0" tests="3" time="0.47" timestamp="2026-09-21 08:41:10"><testcase name="Verificar el listado de usuarios en ReqRes"/><testcase name="Verificar la creación del usuario en ReqRes"/><testcase name="Actualizar los datos de un usuario existente"/></testsuite>
